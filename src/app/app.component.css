@@ -1,0 +1,8 @@
+.color{
+    background: linear-gradient(180deg, rgba(233,236,239,1) 0%, rgba(240,242,244,1) 12%, rgba(249,249,250,1) 32%);
+}
+
+.colorr{
+    border-color:#a6afb9 ;
+    border-width: 2px;;
+}
